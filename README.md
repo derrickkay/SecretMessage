@@ -1,2 +1,2 @@
-# Small project on code academy (SecretMessage)
-Use of Arrays, pop, shift, unshift, splice, Join
+# (SecretMessage)
+Small project on code academy using Arrays, pop, shift, unshift, splice, Join
